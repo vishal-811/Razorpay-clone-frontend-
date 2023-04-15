@@ -2,7 +2,7 @@
 
 ⭐ Razorpay Clone ⭐
 
-📌 Live Site URL: :** <a href=https://razor-clone.pages.dev/>**Click** 🚀</a>
+📌 Live Site URL: : <a href=https://razor-clone.pages.dev/>**Click** 🚀</a>
 
 📌 Tech Stack
 HTML  CSS  TailwindCSS
